@@ -13,5 +13,14 @@ R2. ~~Beautiful girls Github account have profile picture from the beach or othe
 R3. Use 1 github account for both company and person. Simply add your company email into your personal account. Please review the [Github document about personal user accounts](https://docs.github.com/en/github/getting-started-with-github/types-of-github-accounts#personal-user-accounts) or the below tips from Github.
 > You can use one account for multiple purposes, such as for personal use and business use. We do not recommend creating more than one account. For more information, see "Merging multiple user accounts."
 
+## JIRA integration:
+
+### Link your branches, code commits and Pull Requests with JIRA
+1. Use JIRA ticket ID as your branch name
+2. Start your commit message with a proper JIRA ID. If your commit consists for work for two ticket, please use 2 JIRA ID (e.g. "APP-69 APP-70") instead of short form ("APP-69/70")
+
+#### Screenshot
+![JIRA Integration Screenshot](/app-69.PNG?raw=true "JIRA Integration Screenshot")
+
 ## Owner:
 1. To follow the principle of least privilege, you might be changed from owner role to member without notice. Please talk to Hong to request for a owner role.
