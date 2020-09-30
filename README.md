@@ -19,7 +19,7 @@ R3. Use **1 github account for both company and personal purposes**. Simply add 
 
 ### Link your branches, code commits and Pull Requests with JIRA
 1. Use **JIRA ticket ID as your working branch name** (usually off from a development branch)
-2. **Start your commit message with a proper JIRA ID**. If your commit consists for work for two ticket, please use 2 JIRA ID (e.g. "APP-69 APP-70") instead of short form ("APP-69/70")
+2. **Start your commit message with a proper JIRA ID**. If your commit consists of more than two ticket, please use 2 JIRA ID (e.g. "APP-69 APP-70") instead of short form ("APP-69/70")
 
 #### Screenshot
 ![JIRA Integration Screenshot](/app-69.PNG?raw=true "JIRA Integration Screenshot")
