@@ -25,4 +25,4 @@ R3. Use **1 github account for both company and personal purposes**. Simply add 
 ![JIRA Integration Screenshot](/app-69.PNG?raw=true "JIRA Integration Screenshot")
 
 ## Owner:
-1. To follow the principle of least privilege, you might be changed from owner role to member without notice. Please talk to Hong to request for a owner role.
+1. To follow the principle of least privilege, you might be changed from owner role to member without notice. Please talk to Hong to request for an owner role.
